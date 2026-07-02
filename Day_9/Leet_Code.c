@@ -24,4 +24,6 @@ int strStr(char* haystack, char* needle) {
     }
 
     return -1;
-}
+}/* time complexity it takes : 
+O(n*m)*
+space : O(1)*/
